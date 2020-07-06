@@ -5,6 +5,10 @@ _these are other fancy words_
 
 *these words are even facier and in bold!*
 
+=======
+== Test text takes through tacks
+ 
 *THIS is a fancy line*
 ~~This is a wrong line~~
 ***and this is really important***
+
