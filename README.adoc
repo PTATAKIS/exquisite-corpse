@@ -4,3 +4,7 @@ This are cool lines for a cool story.
 _these are other fancy words_
 
 *these words are even facier and in bold!*
+
+*THIS is a fancy line*
+~~This is a wrong line~~
+***and this is really important***
